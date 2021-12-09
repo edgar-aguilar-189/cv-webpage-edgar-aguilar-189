@@ -1,0 +1,9 @@
+Name: Edgar Aguilar
+Lab Name: CV-Webpage
+Date Assigned: Sept 8, 2021
+Date Completed: Sept 15, 2021
+Status: Completed.
+
+Outstanding Issues: None
+Major Impediments: Had trouble merging to main branch at first due to being behind main, but issue was resolved later on. 
+Feedback Comments: None
